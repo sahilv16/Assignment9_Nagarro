@@ -100,7 +100,7 @@ label {
 		<div class="row">
 			<div class="col-xl-12 col-md-12 col-sm-12 col-12">
 				<header>
-					<h2 style="margin-left: 10px;">Add Employee Details</h2>
+					<h2 style="margin-left: 10px;">Add Employee Details !</h2>
 					<h3 style="text-align: right; margin-right: 10px;">
 						Welcome ${sessionn}! &nbsp <a href="Logout"><i
 							class="fa fa-close" style="font-size: 30px; color: red"></i></a>
